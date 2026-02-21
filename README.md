@@ -9,3 +9,5 @@ Learning Next.js and Go for now.
 Next up, HTMX + Go.
 
 I use Neovim and arch with MacOS btw.
+
+Should I learn Asembly? (asked because i wanted a commit graph)
