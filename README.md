@@ -11,3 +11,5 @@ Next up, HTMX + Go.
 I use Neovim and arch with MacOS btw.
 
 Should I learn Asembly? (asked because i wanted a commit graph)
+
+I use my Mac to host my servers via Cloudflare Tunnels. Lets Go.
