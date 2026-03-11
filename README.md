@@ -4,3 +4,5 @@ Target: 365 Days Streak, just for fun.
 
 
 Macbook Air M4 16GB Ram Sucks, can't even run qwen3:8b without thermal throtteling at 108C.
+
+Streak Saver #1
