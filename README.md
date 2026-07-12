@@ -2,8 +2,6 @@
 
 Target: 365 Days Streak, just for fun.
 
-Streak Saver #1
+Progress: Made it to 100 Days but got Distracted and its not happending again.
 
-Streak Saver #2
-
-Streak Saver #3
+The Journey Starts from here.
